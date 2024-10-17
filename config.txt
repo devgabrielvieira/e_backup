@@ -1,0 +1,1 @@
+{"pasta_selecionada": "COLOCAR AQUI O DIRETORIO QUE SERA FEITO O BACKUP (/)", "pasta_backup": "COLOCAR AQUI ONDE O BACKUP SERÁ SALVO (/)"}
