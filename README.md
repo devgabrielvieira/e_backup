@@ -30,26 +30,32 @@ O **e-Backup** é uma aplicação em Python desenvolvida para realizar backup au
 
 1. Clone o repositório para o seu ambiente local:
 
-```bash
-git clone https://github.com/seu-usuario/e-backup.git
-cd e-backup
+```
+git clone https://github.com/seu-usuario/e_backup.git
+cd e_backup
+```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
 
+```
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate  # Windows
+```
 
 3. Instale as dependências necessárias:
 
+```
 pip install -r requirements.txt
+```
 
 ## Execução
 
 Após a instalação das dependências, você pode executar o programa com o seguinte comando:
 
+```
 python e-backup.py
-
+```
 A interface gráfica será exibida, permitindo que você selecione a pasta para backup e monitoramento.
 
 ## Configurações
